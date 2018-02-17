@@ -1,0 +1,103 @@
+.username_label{
+	color: #167537;
+}
+
+.warning{
+	border: solid red 2px;
+}
+
+td, th{
+	border: solid gray 1px;
+}
+
+input[type="text"],input[type="email"],input[type="password"]{
+	width: 300px;
+}
+
+.radio-conv-tipus{
+	display: block;
+	text-align: center;
+}
+
+.span_temps_pasat{
+	background-color: lightgreen;
+}
+
+
+.span_temps_futur{
+	background-color: yellow;
+}
+
+nav{
+	display: none !important;
+}
+
+nav ul{
+	display: inline;
+}
+
+nav ul li{
+	display: inline-block;
+}
+
+nav ul li:after{
+	content: " | ";
+}
+
+.home-btn{
+	width: 150px;
+	margin-right: 75px;
+}
+
+.menu, .menucont, nav{
+	display: inline;
+}
+
+.vot_cumulatiu_input{
+	width: 20px !important;
+}
+
+.clear{
+	clear: both;
+}
+
+
+.respostes_multiline{
+	overflow-wrap: normal;
+}
+
+.span-link{
+	cursor: pointer;
+	color: blue;
+	text-decoration: underline;
+}
+
+.span-link:active{
+	color: red;
+}
+
+.rt_edit{
+	border: solid black 1px;
+	width: 300px;
+	height: 150px;
+	padding: 5px 5px 5px 5px;
+	overflow: auto;
+	overflow-wrap: break-word;
+	resize: both;
+}
+
+@media (min-width:700px){
+	.rt_edit{
+		width: 650px;
+		height: 350px;
+	}
+}
+
+.rte_red { color: #e6194b; }
+.rte_green { color: #3cb44b; }
+.rte_yellow { color: #ffe119; }
+.rte_blue { color: #0082c8; }
+.rte_orange { color: #f58231; }
+.rte_purple { color: #911eb4; }
+.rte_cyan { color: #46f0f0; }
+.rte_black { color: #000000; }
