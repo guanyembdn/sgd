@@ -15,6 +15,9 @@ Autors llibreries:
 - HTML Purifier Copyright (C)  2006-2008 Edward Z. Yang
 - PHP IBAN - http://github.com/globalcitizen/php-iban
 - sorttable.js - Stuart Langridge
+- W3CSS - Jan Egil, Borge Refsnes
+- CSS Navbar - Madalin Tudose (DeliciousThemes)
+- normalize.css - Nicolas Gallagher, Jonathan Neal
 
 Autor de la resta:
 
@@ -24,7 +27,7 @@ Autor de la resta:
 
 Tot el programa (en general): GNU GENERAL PUBLIC LICENSE v3
 
-Tot (excepte HTMLPurifier, php-iban, sorttable.js): Llicencia doble - GNU GENERAL PUBLIC LICENSE v3 o Creative Commons CC0 1.0 Universal (CC0 1.0)
+Tot (excepte HTMLPurifier, php-iban, sorttable.js, style-moderne.css): Llicencia doble - GNU GENERAL PUBLIC LICENSE v3 o Creative Commons CC0 1.0 Universal (CC0 1.0)
 
 ## Instalació
 
