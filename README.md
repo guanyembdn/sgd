@@ -8,6 +8,18 @@ Sistema que permet gestionar:
 - Reunions
 - Votacions
 
+## Autors
+
+Autors llibreries: 
+
+- HTML Purifier Copyright (C)  2006-2008 Edward Z. Yang
+- PHP IBAN - http://github.com/globalcitizen/php-iban
+- sorttable.js - Stuart Langridge
+
+Autor de la resta:
+
+- Guanyem Badalona en Comú
+
 ## Llicencia
 
 Tot el programa (en general): GNU GENERAL PUBLIC LICENSE v3
