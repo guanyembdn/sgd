@@ -91,6 +91,7 @@ CREATE TABLE IF NOT EXISTS `persones` (
   `Alies_Telegram` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
   `canviatself` tinyint(1) NOT NULL DEFAULT '0',
   `css` tinyint(4) NOT NULL DEFAULT '1' COMMENT 'Tipus interficie web, 0 = simple, 1 = moderne',
+  `Xarxes` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
   `Adresa` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
   `Codi_Postal` varchar(30) COLLATE utf8mb4_unicode_ci NOT NULL,
   `Ciutat` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
